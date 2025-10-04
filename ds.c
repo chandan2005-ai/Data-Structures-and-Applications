@@ -16,4 +16,12 @@ int main(){
     scanf("%d %d",&a,&b);
     printf("\n GCD of %d & %d is %d\n",a,b,gcd(a,b));
     return 0;
+
 }
+
+/* Output : 
+    Read values for a & b: 12
+    24
+
+    GCD of 12 & 24 is 12 
+*/
